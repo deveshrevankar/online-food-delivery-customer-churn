@@ -1,0 +1,55 @@
+Age,Age of Consumer
+Gender,Gender of Consumer
+Marital Status,Marital Status of Consumer
+Occupation,Job or Occupation status of Consumer
+Monthly Income,Income bracket of consumer
+Educational Qualifications,Education of consumer
+Family size,Number of family members/ friends living with
+navigationlatitude,latitude of residence
+navigationlongitude,longitude of residence
+Pin code,pincode of residence in Bangalore
+Medium (P1),Medium of order(Preference 1)
+Medium (P2),Medium of order(Preference 2)
+Meal(P1),Type of meal order(Preference 1)
+Meal(P2),Type of meal order(Preference 2)
+Perference(P1),Cuisine (Preference 1)
+Perference(P2),Cuisine (Preference 2)
+Ease and convenient,Ease and convenience of online ordering
+Time saving,Does it save time ?
+More restaurant choices,More restaurant choice influences
+Easy Payment option,Payment option influences
+More Offers and Discount,Offers and discount influences
+Good Food quality,Food quality influences
+Good Tracking system,Tracking system influences
+Self Cooking,Self cooking causes not purchasing
+Health Concern,Health concern causes not purchasing
+Late Delivery,Later Delivery causes not purchasing
+Poor Hygiene,Poor Hygiene causes not purchasing
+Bad past experience,Past experiences causes not purchasing
+Unavailability,Unavailability causes not purchasing
+Unaffordable,Un-affordability causes not purchasing
+Long delivery time,Long delivery causes cancellation
+Delay of delivery person getting assigned,Delay of delivery person assigned causes cancellation
+Delay of delivery person picking up food,Delay of delivery person waiting at restaurant causes cancellation
+Wrong order delivered,Previous wrong order causes cancellation
+Missing item,Missing item in order causes cancellation
+Order placed by mistake,Placed order by mistake causes cancellation
+Influence of time,Is there any influence in time ?
+Order Time,When do you order?
+Maximum wait time,How long can you wait ?
+Residence in busy location,Residence in busy location
+Google Maps Accuracy,My location in google maps is accurate
+Good Road Condition,My residence area road condition is good
+Low quantity low time,low quantity low delivery time
+Delivery person ability,Delivery person ability depends on time of delivery
+Influence of rating,Is there any influence in restaurant rating ?
+Less Delivery time,Importance of Less delivery time
+High Quality of package,Importance of Quality of package
+Number of calls,Importance of Number of calls made by delivery captain
+Politeness,Importance of Politeness of delivery captain
+Freshness,Importance of Freshness of food
+Temperature,Importance of Temperature of food
+Good Taste,Importance of taste
+Good Quantity,Importance of Quantity in food
+Output,Will I purchase again ?
+Reviews,Feedback on online delivery services
